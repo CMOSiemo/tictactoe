@@ -9,7 +9,7 @@
 
 ## Use
 
-    $ ruby caesar_cypher.rb
+    $ ruby tic_tac_toe.rb
 #### _Then follow instructions_
 
 ## Technologies Used
